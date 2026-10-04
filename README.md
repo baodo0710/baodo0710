@@ -15,15 +15,6 @@ actuator limits, and hardware constraints.
 - Learning-based control under delayed, noisy, and partial observations
 - Rehabilitation and assistive robotics: wearable sensing and adaptive feedback
 
-## Selected projects
-
-| Project | Focus | Links |
-|---|---|---|
-| G1 Estimator-Aware Locomotion | PPO humanoid locomotion using estimated rather than privileged base velocity | [Repository](https://github.com/baodo0710/G1-EKF-Locomotion) |
-| Rex Quadruped | Hardware-aware RL, terrain feasibility, actuator constraints, and cross-simulator evaluation | [Repository](https://github.com/baodo0710/IsaacLab-PPO-SpotMicro) |
-| MotionBridge | Vision-based movement estimation and rehabilitation interface | [Repository](https://github.com/baodo0710/MotionBridge) |
-| GuidePlay | Embedded haptic sensing and orientation-and-mobility training system | [Repository](https://github.com/baodo0710/GuidePlay) |
-
 ## Technical toolkit
 
 **Robot learning:** Python, PyTorch, PPO, Isaac Lab, Isaac Sim, domain randomization  

@@ -62,6 +62,5 @@ C/C++ · Python · I²C · SPI · UART · sensor integration
 
 ## Contact
 
-- Email: [donguyenbao0710@gmail.com](mailto:donguyenbao0710@gmail.com)
+- Email: [donguyenbao0710@gmail.com](mailto:donguyenbao0710@gmail.com) | [bd2688@nyu.edu](mailto:bd2688@nyu.edu)
 - LinkedIn: [linkedin.com/in/bao-do-86829a222](https://www.linkedin.com/in/bao-do-86829a222)
-- GitHub: [github.com/baodo0710](https://github.com/baodo0710)
